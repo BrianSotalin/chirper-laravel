@@ -1,11 +1,11 @@
  
 <x-layout>
     <x-slot:title>
-        Edit Chirp
+        Edit Buzzing
     </x-slot:title>
 
     <div class="max-w-2xl mx-auto">
-        <h1 class="text-3xl font-bold mt-8">Edit Chirp</h1>
+        <h1 class="text-3xl font-bold mt-8">Edit Buzzing</h1>
 
         <div class="card bg-base-100 shadow mt-8">
             <div class="card-body">
@@ -34,7 +34,7 @@
                             Cancel
                         </a>
                         <button type="submit" class="btn btn-primary btn-sm">
-                            Update Chirp
+                            Update Buzzing
                         </button>
                     </div>
                 </form>
